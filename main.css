@@ -57,15 +57,20 @@ a:hover {
 	bottom: 50px;
 	text-align: center;
 }
-#linkai i {
-	margin: 25px;
-	text-decoration: none;
-	text-align: center;
-}
 #linkai a {
 	margin: 25px;
 	text-decoration: none;
 	text-align: center;
+
+}
+a { 
+	color: white; 
+}
+a:visited { 
+	color: white; 
+}
+a:hover { 
+	color: black; 
 }
 /* RESUME ///////////////////  */
 object {
