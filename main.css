@@ -64,13 +64,13 @@ a:hover {
 
 }
 a { 
-	color: white; 
+	color: black; 
 }
 a:visited { 
-	color: white; 
+	color: black; 
 }
 a:hover { 
-	color: black; 
+	color: white; 
 }
 /* RESUME ///////////////////  */
 object {
