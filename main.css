@@ -57,6 +57,11 @@ a:hover {
 	bottom: 50px;
 	text-align: center;
 }
+#linkai i {
+	margin: 25px;
+	text-decoration: none;
+	text-align: center;
+}
 #linkai a {
 	margin: 25px;
 	text-decoration: none;
